@@ -1,2 +1,3 @@
 # hello-world
-learning git
+# learning git
+# testing out how to commit changes
